@@ -9,3 +9,4 @@ Throughout the years, Urban Edge Apparel has meticulously recorded each transact
 This Datathon is your opportunity to delve into Urban Edge Apparel’s comprehensive data, uncover valuable insights, and develop innovative data-driven solutions that can propel their business to new heights.
 
 # Datathaon Submission
+https://public.tableau.com/views/Datathon_24_Dubstech/ProductPerformance?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
