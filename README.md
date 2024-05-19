@@ -11,3 +11,6 @@ This Datathon is your opportunity to delve into Urban Edge Apparel’s comprehen
 # Datathaon Submission
 
 [Tableau Submission](https://public.tableau.com/views/Datathon_24_Dubstech/ProductPerformance?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Presentation Submission](https://1drv.ms/p/c/a5f9983556cc9b93/Ea9Ca2sPiTNHrdIUX76MMswBhqTnLrhPxw9s6khKiT92vg?e=iNIdGk&nav=eyJzSWQiOjMyNywiY0lkIjoyMDMzMTQ4OTg4fQ)
+
+Machine learning code can be found in the python notebooks available in this repository.
